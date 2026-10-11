@@ -11,7 +11,7 @@ The **Credential Found & Remove Tool** is a utility designed strictly and exclus
 ---
 
 ### 2. Zero Liability Clause 
-**THE DEVELOPER (Raj-u) SHALL UNDER NO CIRCUMSTANCES BEAR ANY LIABILITY WHATSOEVER FOR ANY DAMAGES, LOSSES, SYSTEM CRASHES, DATA LEAKS, OR LEGAL CONSEQUENCES ARISING FROM THE USE, MISUSE, OR INABILITY TO USE THIS TOOL.** 
+**THE DEVELOPER (Ug-alok) SHALL UNDER NO CIRCUMSTANCES BEAR ANY LIABILITY WHATSOEVER FOR ANY DAMAGES, LOSSES, SYSTEM CRASHES, DATA LEAKS, OR LEGAL CONSEQUENCES ARISING FROM THE USE, MISUSE, OR INABILITY TO USE THIS TOOL.** 
 
 This software is provided completely "AS IS" without any guarantees, representations, or warranties of any kind, either express or implied. If anything goes wrong, breaks, gets deleted, or causes any loss (financial, data, system damage, or otherwise) while using this tool, **the developer takes absolutely NO liability, responsibility, or blame under any circumstances.** 
 
