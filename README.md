@@ -33,7 +33,7 @@ Modern code hosting platforms enforce strict security policies. Therefore, **adm
 To download, set up the global command, and configure storage permissions, run the following commands:
 
 ```bash
-git clone https://codeberg.org/Firewall-Crusher/Credential-Found-Remove.git
+git clone https://github.com/UG-ALOK/Credential-Found-Remove.git
 ```
 ```bash
 cd Credential-Found-Remove
