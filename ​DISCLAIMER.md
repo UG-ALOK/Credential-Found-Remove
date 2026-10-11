@@ -1,7 +1,7 @@
 # ⚠️ Disclaimer & Legal Notice
 
 **Project:** Credential Found & Remove Tool  
-**Developer:** Raj-u
+**Developer:** UG-ALOK
 
 ---
 
